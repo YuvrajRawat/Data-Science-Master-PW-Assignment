@@ -1,0 +1,8 @@
+A while loop is used in programming when you want to repeatedly execute a block of code as long as a certain condition is met. The basic structure of a while loop is:
+while condition:
+    # code to be executed
+The condition is evaluated before each iteration of the loop. If the condition is true, the loop will continue to execute. If the condition is false, the loop will exit and the program will continue with the next line of code after the loop.
+
+You would use a while loop when you don't know beforehand how many times the loop needs to be executed. For example, you might use a while loop to read data from a file until you reach the end of the file, or to repeatedly ask a user for input until they enter a valid response.
+
+In general, you should use a while loop when you need to perform an operation repeatedly while a certain condition remains true, and use a for loop when you know ahead of time how many iterations you need to perform.
